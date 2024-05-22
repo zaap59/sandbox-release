@@ -2,7 +2,8 @@
 name: Release Please
 
 on:
-  push:
+  pull_request:
+    types: [closed]
     branches:
       - release-*.*.*
 
