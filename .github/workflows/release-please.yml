@@ -6,6 +6,9 @@ on:
     types: [closed]
     branches:
       - release-*.*.*
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
