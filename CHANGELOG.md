@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.1.0) (2024-05-24)
+
+
+### Features
+
+* **app:** add navbar ([#33](https://github.com/zaap59/sandbox-release/issues/33)) ([74ef899](https://github.com/zaap59/sandbox-release/commit/74ef899841e86f9834d3381aef8a4ad512c20045))
+* **app:** use bootstrap css library ([#28](https://github.com/zaap59/sandbox-release/issues/28)) ([4e21701](https://github.com/zaap59/sandbox-release/commit/4e217013effe4ead09d36ac8c1975076ac29c310))
+
+
+### Bug Fixes
+
+* **app:** add missing metadata description ([#34](https://github.com/zaap59/sandbox-release/issues/34)) ([8370ddf](https://github.com/zaap59/sandbox-release/commit/8370ddf12444cd2503bb4e25bae0e16c12af061f))
+* **app:** change to right date ([#30](https://github.com/zaap59/sandbox-release/issues/30)) ([91d66d1](https://github.com/zaap59/sandbox-release/commit/91d66d17f021abd60db53679632b7d3625b397d2))
+
 ## 1.0.0 (2024-05-24)
 
 
