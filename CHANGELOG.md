@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/zaap59/sandbox-release/compare/v1.0.1...v1.0.2) (2024-05-24)
+
+
+### Bug Fixes
+
+* **app:** add missing metadata description ([#34](https://github.com/zaap59/sandbox-release/issues/34)) ([#35](https://github.com/zaap59/sandbox-release/issues/35)) ([90bc917](https://github.com/zaap59/sandbox-release/commit/90bc91728991e5f2305dafad3dc76a59faeb3766))
+
 ## [1.0.1](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.0.1) (2024-05-24)
 
 
