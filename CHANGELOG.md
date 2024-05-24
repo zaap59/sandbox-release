@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.0.1) (2024-05-24)
+
+
+### Bug Fixes
+
+* **app:** change to right date ([#30](https://github.com/zaap59/sandbox-release/issues/30)) ([#31](https://github.com/zaap59/sandbox-release/issues/31)) ([8c5621a](https://github.com/zaap59/sandbox-release/commit/8c5621a2977fe93c7a96d39f861bb981d9fc1111))
+
 ## 1.0.0 (2024-05-24)
 
 
