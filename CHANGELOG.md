@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/zaap59/sandbox-release/compare/v1.0.1...v1.0.2) (2024-05-24)
+
+
+### Bug Fixes
+
+* **app:** change bg color to turquoise ([#21](https://github.com/zaap59/sandbox-release/issues/21)) ([#22](https://github.com/zaap59/sandbox-release/issues/22)) ([cba7e45](https://github.com/zaap59/sandbox-release/commit/cba7e45ae41c00d34b9c21dfb1a69777a2bfb677))
+
 ## [1.0.1](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.0.1) (2024-05-22)
 
 
