@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/zaap59/sandbox-release/compare/v2.0.0...v2.1.0) (2024-05-27)
+
+
+### Features
+
+* **app:** css bg orange ([#42](https://github.com/zaap59/sandbox-release/issues/42)) ([8ae1fb1](https://github.com/zaap59/sandbox-release/commit/8ae1fb13bf7946342fa1418fd668b6f424ffad7c))
+
 ## [2.0.0](https://github.com/zaap59/sandbox-release/compare/v1.1.0...v2.0.0) (2024-05-27)
 
 
