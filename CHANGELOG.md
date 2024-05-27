@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/zaap59/sandbox-release/compare/v1.1.0...v2.0.0) (2024-05-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **app:** add jquery ([#37](https://github.com/zaap59/sandbox-release/issues/37))
+
+### Features
+
+* **app:** add jquery ([#37](https://github.com/zaap59/sandbox-release/issues/37)) ([c278056](https://github.com/zaap59/sandbox-release/commit/c278056436f47dafe1b1968df90afa47e8e0cca6))
+
+
+### Bug Fixes
+
+* **app:** change about to team ([#39](https://github.com/zaap59/sandbox-release/issues/39)) ([e0abc39](https://github.com/zaap59/sandbox-release/commit/e0abc39450dead1e8aac67ca3759de92703ac2a6))
+
 ## [1.1.0](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.1.0) (2024-05-24)
 
 
