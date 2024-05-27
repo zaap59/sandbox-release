@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/zaap59/sandbox-release/compare/v1.1.0...v1.1.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* **app:** change about to team ([#39](https://github.com/zaap59/sandbox-release/issues/39)) ([#40](https://github.com/zaap59/sandbox-release/issues/40)) ([cab2a18](https://github.com/zaap59/sandbox-release/commit/cab2a18e436e8c13eefd28687950f6ceef8d96f6))
+
 ## [1.1.0](https://github.com/zaap59/sandbox-release/compare/v1.0.0...v1.1.0) (2024-05-24)
 
 
