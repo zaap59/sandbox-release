@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/zaap59/sandbox-release/compare/v2.1.0...v2.2.0) (2024-06-03)
+
+
+### Features
+
+* **app:** add multiple section ([#44](https://github.com/zaap59/sandbox-release/issues/44)) ([14bf1f4](https://github.com/zaap59/sandbox-release/commit/14bf1f4206530b5728c250a07ac4d540aedc4565))
+
 ## [2.1.0](https://github.com/zaap59/sandbox-release/compare/v2.0.0...v2.1.0) (2024-05-27)
 
 
