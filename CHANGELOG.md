@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/zaap59/sandbox-release/compare/v2.3.0...v2.3.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* **app:** change background to blue ([#49](https://github.com/zaap59/sandbox-release/issues/49)) ([#51](https://github.com/zaap59/sandbox-release/issues/51)) ([5347a32](https://github.com/zaap59/sandbox-release/commit/5347a3220af454c9054cea1c67b3e30240a202ac))
+
 ## [2.3.0](https://github.com/zaap59/sandbox-release/compare/v2.2.0...v2.3.0) (2024-06-25)
 
 
