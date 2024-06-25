@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.4.0](https://github.com/zaap59/sandbox-release/compare/v2.3.0...v2.4.0) (2024-06-25)
+
+
+### Features
+
+* **navbar:** add services link ([#53](https://github.com/zaap59/sandbox-release/issues/53)) ([25b6425](https://github.com/zaap59/sandbox-release/commit/25b642533983648a454be2c4703fc5e03dc7aac3))
+
+
+### Bug Fixes
+
+* **app:** change background to blue ([#49](https://github.com/zaap59/sandbox-release/issues/49)) ([46614c3](https://github.com/zaap59/sandbox-release/commit/46614c375ef0a1a7fc8aa7de7f3f5e25926fc2c6))
+
 ## [2.3.0](https://github.com/zaap59/sandbox-release/compare/v2.2.0...v2.3.0) (2024-06-25)
 
 
