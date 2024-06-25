@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://github.com/zaap59/sandbox-release/compare/v2.2.0...v2.3.0) (2024-06-25)
+
+
+### Features
+
+* **css:** change background to red ([#48](https://github.com/zaap59/sandbox-release/issues/48)) ([b9679d5](https://github.com/zaap59/sandbox-release/commit/b9679d5e9bc0d58abd2751fde83f3e59e5b9bf90))
+* **navbar:** add about ([#46](https://github.com/zaap59/sandbox-release/issues/46)) ([35e43d4](https://github.com/zaap59/sandbox-release/commit/35e43d4b22a531411d628e84fd770864384485b9))
+
 ## [2.2.0](https://github.com/zaap59/sandbox-release/compare/v2.1.0...v2.2.0) (2024-06-03)
 
 
